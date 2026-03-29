@@ -33,5 +33,5 @@ To run this game on a modern operating system, you will need **NASM** and an emu
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YourUsername/super-nasm-racing.git](https://github.com/YourUsername/super-nasm-racing.git)
+   git clone [https://github.com/YourUsername/super-nasm-racing.git](https://github.com/Yahya-asd/super-nasm-racing.git)
    cd super-nasm-racing
